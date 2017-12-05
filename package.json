@@ -1,0 +1,16 @@
+{
+  "name": "jquery-demo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-plugin-jquery-deprecated": "^1.0.0",
+    "jquery": "^1.9"
+  }
+}

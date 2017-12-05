@@ -1,0 +1,15 @@
+{
+  "env": {
+    "jquery": true
+  },
+  "globals": {
+    "console": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:jquery-deprecated/recommended"
+  ],
+  "rules": {
+    "no-console": "off"
+  }
+}
